@@ -325,7 +325,7 @@ nav p {
   height: 1200px;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 360px) {
   #btnAbrir {
     width: 100%;
   }
